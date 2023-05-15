@@ -1,0 +1,3 @@
+name: Main
+version: '${project.version}'
+main: dev.xmroot.testeplugin.Main
